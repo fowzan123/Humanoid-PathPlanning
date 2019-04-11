@@ -2,7 +2,7 @@
 #include<stdio.h>
 using namespace std;
 int shortest(int ,int);
-int cost[10][10],dist[20],i,j,n,k,m,S[20],v,totcost,path[20],p;
+int cost[10][10],dist[20],i,j,n,k,m,S[20],v,totcost,path[20];
 main()
 {
 int c;
