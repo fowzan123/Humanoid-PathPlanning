@@ -1,2 +1,2 @@
 # PathPlanning
-PathPlanning algorithms implementation using Python for navigation A*,Dijkstras
+PathPlanning algorithms implementation using Python for navigation A*,Dijkstras..
